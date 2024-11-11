@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on [singfuse.com](https://singfuse.com)
 
+### Open Source Contributions
+![](https://github-readme-stats.vercel.app/api?username=vinothkannans&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
+
 <!--
 **vinothkannans/vinothkannans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
